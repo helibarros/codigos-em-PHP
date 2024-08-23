@@ -1,0 +1,18 @@
+div{
+    text-align: center;
+    position: relative;
+    height: 200px;
+    bottom: -60px;
+    font-size: 200%;
+    color: rgb(21, 208, 228);
+   
+}
+
+body{
+    background-color: rgb(158, 126, 156);
+}
+
+h2{
+    text-align: center;
+    color:   rgb(25, 60, 64);
+   
